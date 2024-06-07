@@ -1,6 +1,6 @@
 ![Generative AI For Beginners](./images/repo-thubmnail2.png?WT.mc_id=academic-105485-koreyst)
 
-## 18 Lessons teaching everything you need to know to start building Generative AI applications
+### 18 Lessons teaching everything you need to know to start building Generative AI applications
 
 [![GitHub license](https://img.shields.io/github/license/microsoft/Generative-AI-For-Beginners.svg)](https://github.com/microsoft/Generative-AI-For-Beginners/blob/master/LICENSE?WT.mc_id=academic-105485-koreyst)
 [![GitHub contributors](https://img.shields.io/github/contributors/microsoft/Generative-AI-For-Beginners.svg)](https://GitHub.com/microsoft/Generative-AI-For-Beginners/graphs/contributors/?WT.mc_id=academic-105485-koreyst)
